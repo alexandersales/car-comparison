@@ -1,7 +1,5 @@
 # Car Comparison App
 
-# Car Comparison App
-
 ## Description
 
 **Car Comparison** is an analysis tool developed in Python using Jupyter Notebook. It allows users to compare the cost-benefit of two vehicle models — a combustion car and an electric car — over eight years. The application calculates and compares the costs of acquisition, fuel (or electricity), insurance, maintenance, depreciation, IPVA and unspecified additional costs, which may arise from maintenance, natural or accidental wear and tear of the vehicle, allowing the user to make a more informed decision when choosing between a combustion vehicle and an electric one.
