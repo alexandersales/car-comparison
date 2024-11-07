@@ -1,2 +1,23 @@
-# car-comparison
-Car comparison code with Python
+# Car Comparison App
+
+## Descrição
+
+A **Car Comparison App** é uma aplicação web desenvolvida em Python usando o framework Flask. Ela permite que usuários comparem o custo-benefício de dois modelos de veículos — um carro a combustão e um carro elétrico — ao longo de oito anos. A aplicação calcula e compara os custos de aquisição, combustível (ou eletricidade), seguro, manutenção, depreciação, IPVA e custos extras, permitindo ao usuário tomar uma decisão mais informada ao escolher entre um veículo a combustão e um elétrico.
+
+## Funcionalidades
+
+- **Entrada de Dados**: O usuário insere as informações financeiras e de consumo de cada veículo, incluindo:
+  - Valor inicial
+  - Taxas de juros e financiamento (se aplicável)
+  - Consumo de combustível (km/l) para veículos a combustão
+  - Consumo de eletricidade (kWh/km) para veículos elétricos
+  - Preço do litro de combustível e do kWh
+  - Outros dados relevantes, como seguro, IPVA e depreciação
+- **Cálculo de Custos Totais**: A aplicação calcula o custo anual total para cada veículo considerando os parâmetros fornecidos e exibe uma tabela comparativa dos custos acumulados ao longo de oito anos.
+- **Comparação e Decisão**: Ao final, a aplicação destaca qual veículo possui o melhor custo-benefício ao longo do período.
+
+## Contribuição
+
+Sinta-se à vontade para abrir uma issue ou enviar pull requests para melhorar a aplicação!
+
+
